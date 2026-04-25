@@ -24,6 +24,25 @@ It works by running every message through a **4-Layer Hybrid Classification Pipe
 
 ---
 
+## 📸 Visual Showcase
+
+<div align="center">
+  <img src="docs/protected.png" alt="Protected State" width="800" />
+  <p><i>🔴 Protected Zone: Sensitive keywords trigger immediate ad-blocking and safety lockdown.</i></p>
+
+  <br/>
+
+  <img src="docs/neutral.png" alt="Neutral State" width="800" />
+  <p><i>🟡 Neutral Zone: Trajectory bias prevents inappropriate transitions after sensitive topics.</i></p>
+
+  <br/>
+
+  <img src="docs/commerce.png" alt="Commerce State" width="800" />
+  <p><i>🟢 Commerce Zone: Safe product suggestions render dynamically when purchase intent is high.</i></p>
+</div>
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
